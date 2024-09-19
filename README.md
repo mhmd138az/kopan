@@ -4,28 +4,6 @@
 <title>محمد</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title></title>
-</head>
-<body>
-    <style>
-        .mydiv {
-            background-image: url('https://s8.uupload.ir/files/1726468952483_2oyw.jpg');
-            background-repeat: no-repeat;
-            width:500px;
-            height:500px;
-            background-size:cover;
-        }
-    </style>
-    <div class="mydiv">
-        Hi ... This is a div with no Style
-    </div>
-
-</body>
-</html>
 <style>
     * {
     box-sizing: border-box;
@@ -229,13 +207,13 @@ align-items: center;
     <h3>موضوع عکس</h3>
     <p>توضیحات</p>
     <div class="fakeimg" style="height:60px;">تصاویر</div><br>
-   <a href="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/1726468952483_2oyw.jpg" border="0" alt="آپلود عکس" /></a>
+   <a href="https://uploadkon.ir/" target="_blank" title="https://uploadkon.ir/"><img src="https://uploadkon.ir/uploads/4db919_24IMG-20240905-172137-615.jpg" border="0" alt="https://uploadkon.ir/uploads/4db919_24IMG-20240905-172137-615.jpg" /></a>
     <div class="fakeimg" style="height:60px;">تصویر</div><br>
     </div>
     <div class="main">
     <h2>موضوع تصویر</h2>
     <h5>تابستان۱۴۰۳</h5>
-    <div class="fakeimg" style="height:200px;">تصاویر</div>
+    <div class="fakeimg" style="height:200px;">تصاویر</div>  
     <p>توضیحات</p>
     <p><br>
     <h2>موضوع تصویر</h2>
