@@ -193,7 +193,7 @@ align-items: center;
 <ul>
 <li><a class="active" href="#">خانه</a></li>
 <li><a href="https://mhmd138az.github.io/kopan/#%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86%DB%B1%DB%B4%DB%B0%DB%B3">تصاویر</a></li>
-<li><a href="https://rubika.ir/kali_linux_86 , https://mhmd138az.github.io/kopan/#%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AA%D9%85%D8%A7%D8%B3-09178537782">ارتباط با ما</a></li>
+<li><a href="https://mhmd138az.github.io/kopan/#%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AA%D9%85%D8%A7%D8%B3-09178537782">ارتباط با ما</a></li>
 </ul>
 
 </body>
@@ -218,6 +218,7 @@ align-items: center;
     <h1>تماس با ما</h1>
     <h3>شماره تماس : 09178537782</h3>
     <h3>ایتا : @Mhmd1386az</h3>
+        <a href="https://rubika.ir/kali_linux_86">روبیکا</a>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
