@@ -168,6 +168,9 @@ align-items: center;
 #search button{
     background-color:chartreuse;
 }
+    h1{
+        background-color: crimson;
+        }
 </style>
 </head>
 <body>
