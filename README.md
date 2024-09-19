@@ -199,7 +199,8 @@ align-items: center;
 
 </body>
     
-
+ <div class="row">
+    <div class="side">
     <h5></h5>
     <div class="fakeimg" style="height:200px;"></div>
     <p>توضیحات</p>
