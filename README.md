@@ -246,7 +246,7 @@ align-items: center;
 <option value="ahvaz"> ahvaz </option>
 </select>
 <label for="subject"></label>
-<textarea id="subject" name="subject" placeholder="موضوع" style="height:200px"></textarea>
+<textarea id="subject" name="subject" placeholder="موضوع" style="height:150px"></textarea>
 <input class="btn1" type="submit" value="ارسال">
 </form>
 </html>
