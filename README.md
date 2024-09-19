@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fa">
 <head>
     <link rel="stylesheet" href="style.css">
