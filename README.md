@@ -192,8 +192,8 @@ align-items: center;
 <body>
 <ul>
 <li><a class="active" href="#">خانه</a></li>
-<li><a href="https://mhmd138az.github.io/kopan/#%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AA%D9%85%D8%A7%D8%B3-09178537782">تصاویر</a></li>
-<li><a href="https://rubika.ir/kali_linux_86">ارتباط با ما</a></li>
+<li><a href="https://mhmd138az.github.io/kopan/#%D8%AA%D8%A7%D8%A8%D8%B3%D8%AA%D8%A7%D9%86%DB%B1%DB%B4%DB%B0%DB%B3">تصاویر</a></li>
+<li><a href="https://rubika.ir/kali_linux_86 , https://mhmd138az.github.io/kopan/#%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AA%D9%85%D8%A7%D8%B3-09178537782">ارتباط با ما</a></li>
 </ul>
 
 </body>
@@ -212,7 +212,6 @@ align-items: center;
     <a href="https://uploadkon.ir/" target="_blank" title="https://uploadkon.ir/"><img src="https://uploadkon.ir/uploads/aee519_24IMG-20240905-165758-449.jpg" border="0" alt="https://uploadkon.ir/uploads/aee519_24IMG-20240905-165758-449.jpg" /></a>
     <p>توضیحات</p>
     <p><br>
-    <h2>موضوع تصویر</h2>
     <h5>تابستان ۱۴۰۳</h5>
     <a href="https://uploadkon.ir/" target="_blank" title="https://uploadkon.ir/"><img src="https://uploadkon.ir/uploads/964519_24IMG-20240905-172126-172.jpg" border="0" alt="https://uploadkon.ir/uploads/964519_24IMG-20240905-172126-172.jpg" /></a>
   <div></div>
