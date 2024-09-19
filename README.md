@@ -195,6 +195,7 @@ align-items: center;
 <ul>
 <li><a class="active" href="#">خانه</a></li>
 <li><a href="">تصاویر</a></li>
+    <img src="file:///home/armanpc/Downloads/IMG_20240905_172056_125.jpg">
 <li><a href="https://rubika.ir/alierza7086">ارتباط با ما</a></li>
 </ul>
 
