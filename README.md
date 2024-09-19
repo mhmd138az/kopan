@@ -218,7 +218,7 @@ align-items: center;
     <a href="https://uploadkon.ir/" target="_blank" title="https://uploadkon.ir/"><img src="https://uploadkon.ir/uploads/964519_24IMG-20240905-172126-172.jpg" border="0" alt="https://uploadkon.ir/uploads/964519_24IMG-20240905-172126-172.jpg" /></a>
   <div></div>
     <div class="footer">
-    <h1>تماس با ما</h1>
+    <h2>تماس با ما</h2>
     <h3>شماره تماس : 09178537782</h3>
     <h3>ایتا : @Mhmd1386az</h3>
         <a href="https://rubika.ir/kali_linux_86">روبیکا</a>
