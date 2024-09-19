@@ -206,8 +206,7 @@ align-items: center;
     <p>توضیحات</p>
     <h3>موضوع عکس</h3>
     <p>توضیحات</p>
-    <div class="fakeimg" style="height:60px;">تصاویر</div><br>
-   <a href="https://uploadkon.ir/" target="_blank" title="https://uploadkon.ir/"><img src="https://uploadkon.ir/uploads/4db919_24IMG-20240905-172137-615.jpg" border="0" alt="https://uploadkon.ir/uploads/4db919_24IMG-20240905-172137-615.jpg" /></a>
+    <div class="fakeimg" style="height:60px;">تصاویر</div><br> <a href="https://uploadkon.ir/" target="_blank" title="https://uploadkon.ir/"><img src="https://uploadkon.ir/uploads/4db919_24IMG-20240905-172137-615.jpg" border="0" alt="https://uploadkon.ir/uploads/4db919_24IMG-20240905-172137-615.jpg" /></a>
     <div class="fakeimg" style="height:60px;">تصویر</div><br>
     </div>
     <div class="main">
