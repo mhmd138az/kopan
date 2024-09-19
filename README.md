@@ -210,7 +210,7 @@ align-items: center;
     <div class="main">
     <h2>موضوع تصویر</h2>
     <h5>تابستان۱۴۰۳</h5>
-    <div class="fakeimg" style="height:200px;">تصاویر</div>  
+    <a href="https://uploadkon.ir/" target="_blank" title="https://uploadkon.ir/"><img src="https://uploadkon.ir/uploads/aee519_24IMG-20240905-165758-449.jpg" border="0" alt="https://uploadkon.ir/uploads/aee519_24IMG-20240905-165758-449.jpg" /></a>
     <p>توضیحات</p>
     <p><br>
     <h2>موضوع تصویر</h2>
