@@ -192,7 +192,7 @@ align-items: center;
 <body>
 <ul>
 <li><a class="active" href="#">خانه</a></li>
-<li><a href="">تصاویر</a></li>
+<li><a href="https://mhmd138az.github.io/kopan/#%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AA%D9%85%D8%A7%D8%B3-09178537782">تصاویر</a></li>
 <li><a href="https://rubika.ir/kali_linux_86">ارتباط با ما</a></li>
 </ul>
 
