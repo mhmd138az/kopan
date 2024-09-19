@@ -195,7 +195,6 @@ align-items: center;
 <ul>
 <li><a class="active" href="#">خانه</a></li>
 <li><a href="">تصاویر</a></li>
-    <img src="file:///home/armanpc/Downloads/IMG_20240905_172056_125.jpg">
 <li><a href="https://rubika.ir/alierza7086">ارتباط با ما</a></li>
 </ul>
 
@@ -210,6 +209,7 @@ align-items: center;
     <h3>موضوع عکس</h3>
     <p>توضیحات</p>
     <div class="fakeimg" style="height:60px;">تصاویر</div><br>
+     <img src="file:///home/armanpc/Downloads/IMG_20240905_172056_125.jpg">
     <div class="fakeimg" style="height:60px;">تصویر</div><br>
     </div>
     <div class="main">
