@@ -56,7 +56,7 @@
     .side {
     -ms-flex: 30%; /* IE10 */
     flex: 30%;
-    background-color: #e9e8d9;
+    background-color: rgb(194, 190, 157);
     padding: 20px;
     }
     .main {
