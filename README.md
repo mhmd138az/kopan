@@ -194,6 +194,7 @@ align-items: center;
 <ul>
 <li><a class="active" href="#">خانه</a></li>
 <li><a href="">تصاویر</a></li>
+    <a href="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/1726468952483_2oyw.jpg" border="0" alt="آپلود عکس" /></a>
 <li><a href="https://rubika.ir/alierza7086">ارتباط با ما</a></li>
 </ul>
 
