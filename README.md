@@ -219,7 +219,7 @@ align-items: center;
     <h2>موضوع تصویر</h2>
     <h5>تابستان ۱۴۰۳</h5>
     <div class="fakeimg" style="height:200px;">تصاویر</div>
-  
+  <div></div>
    
     
     <div class="footer">
@@ -249,4 +249,3 @@ align-items: center;
 <textarea id="subject" name="subject" placeholder="موضوع" style="height:150px"></textarea>
 <input class="btn1" type="submit" value="ارسال">
 </form>
-</html>
