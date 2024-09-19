@@ -191,10 +191,6 @@ align-items: center;
         </div>
     </form>
 </div>
-</head>
-</div>
-</head>
-
 <body>
 <ul>
 <li><a class="active" href="#">خانه</a></li>
