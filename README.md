@@ -251,12 +251,6 @@ align-items: center;
 <textarea id="subject" name="subject" placeholder="موضوع" style="height:200px"></textarea>
 <input class="btn1" type="submit" value="ارسال">
 </form>
-</h3>
-<body>
-    <div>
-
-
-</body>
 </html>
     </div>
     
