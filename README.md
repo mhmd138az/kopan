@@ -219,9 +219,8 @@ align-items: center;
     <h2>موضوع تصویر</h2>
     <h5>تابستان ۱۴۰۳</h5>
     <div class="fakeimg" style="height:200px;">تصاویر</div>
-    <p></p>
-    <p></div>
-    </div>
+  
+   
     
     <div class="footer">
     <h1>تماس با ما</h1>
