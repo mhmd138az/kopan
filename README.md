@@ -282,7 +282,7 @@ to {opacity: 1}
 </div>
 <div class="mySlides fade">
 <div class="academyit2">3 / 3</div>
-<img src="academyit3.jpg" style="width:100%">
+<img src="https://uploadkon.ir/uploads/e16919_24IMG-20240906-135000-770.jpg" style="width:100%">
 <div class="text">Caption 3</div>
 </div>
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
