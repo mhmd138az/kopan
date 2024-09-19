@@ -108,7 +108,6 @@
     overflow: hidden;
     background-color: #281740;
     }
-    
     li {
     float: left;
     }
@@ -217,10 +216,8 @@ align-items: center;
     <p><br>
     <h2>موضوع تصویر</h2>
     <h5>تابستان ۱۴۰۳</h5>
-    <div class="fakeimg" style="height:200px;">تصاویر</div>
+    <div class="fakeimg" style="height:200px;">تصاویر</div> <a href="https://uploadkon.ir/" target="_blank" title="https://uploadkon.ir/"><img src="https://uploadkon.ir/uploads/964519_24IMG-20240905-172126-172.jpg" border="0" alt="https://uploadkon.ir/uploads/964519_24IMG-20240905-172126-172.jpg" /></a>
   <div></div>
-   
-    
     <div class="footer">
     <h1>تماس با ما</h1>
     <h3>شماره تماس : 09178537782</h3>
