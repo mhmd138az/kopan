@@ -211,7 +211,6 @@ align-items: center;
     <h5>تابستان۱۴۰۳</h5>
     <a href="https://uploadkon.ir/" target="_blank" title="https://uploadkon.ir/"><img src="https://uploadkon.ir/uploads/aee519_24IMG-20240905-165758-449.jpg" border="0" alt="https://uploadkon.ir/uploads/aee519_24IMG-20240905-165758-449.jpg" /></a>
     <p>توضیحات</p>
-    <p><br>
     <h5>تابستان ۱۴۰۳</h5>
     <a href="https://uploadkon.ir/" target="_blank" title="https://uploadkon.ir/"><img src="https://uploadkon.ir/uploads/964519_24IMG-20240905-172126-172.jpg" border="0" alt="https://uploadkon.ir/uploads/964519_24IMG-20240905-172126-172.jpg" /></a>
   <div></div>
