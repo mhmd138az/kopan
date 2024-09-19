@@ -62,7 +62,7 @@
     .main {
     -ms-flex: 70%; /* IE10 */
     flex: 70%;
-    background-color: white;
+    background-color:  rgb(194, 190, 157);
     padding: 20px;
     }
     .fakeimg {
