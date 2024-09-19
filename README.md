@@ -252,7 +252,3 @@ align-items: center;
 <input class="btn1" type="submit" value="ارسال">
 </form>
 </html>
-    </div>
-    
-    </body>
-    </html>
