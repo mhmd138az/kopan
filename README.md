@@ -201,7 +201,7 @@ align-items: center;
  <div class="row">
     <div class="side">
     <h5></h5>
-    <div class="fakeimg" style="height:200px;">عکس ها</div>
+    <div class="https://uploadkon.ir/uploads/964519_24IMG-20240905-172126-172.jpg" style="height:200px;">عکس ها</div>
     <p>توضیحات</p>
     <h3>موضوع عکس</h3>
     <p>توضیحات</p>
