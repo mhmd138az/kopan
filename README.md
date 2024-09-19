@@ -228,7 +228,6 @@ align-items: center;
     <h1>تماس با ما</h1>
     <h3>شماره تماس : 09178537782</h3>
     <h3>ایتا : @Mhmd1386az</h3>
-    <!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -256,9 +255,6 @@ align-items: center;
 <body>
     <div>
 
-</li>
-
-</div></body>
 
 </body>
 </html>
