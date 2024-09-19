@@ -56,7 +56,7 @@
     .side {
     -ms-flex: 30%; /* IE10 */
     flex: 30%;
-    background-color: rgb(194, 190, 157);
+    background-color:  #98988a;
     padding: 20px;
     }
     .main {
@@ -193,7 +193,7 @@ align-items: center;
 <ul>
 <li><a class="active" href="#">خانه</a></li>
 <li><a href="">تصاویر</a></li>
-<li><a href="https://rubika.ir/alierza7086">ارتباط با ما</a></li>
+<li><a href="https://rubika.ir/kali_linux_86">ارتباط با ما</a></li>
 </ul>
 
 </body>
