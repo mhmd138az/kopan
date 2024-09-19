@@ -4,6 +4,28 @@
 <title>محمد</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <style>
+        .mydiv {
+            background-image: url('https://s8.uupload.ir/files/1726468952483_2oyw.jpg');
+            background-repeat: no-repeat;
+            width:500px;
+            height:500px;
+            background-size:cover;
+        }
+    </style>
+    <div class="mydiv">
+        Hi ... This is a div with no Style
+    </div>
+
+</body>
+</html>
 <style>
     * {
     box-sizing: border-box;
