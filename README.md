@@ -199,7 +199,6 @@ align-items: center;
 </ul>
 
 </body>
-</html>
     
     <div class="row">
     <div class="side">
