@@ -173,7 +173,7 @@ align-items: center;
         }
     /* From Uiverse.io by OnlyCodeChannel */ 
 .searchBox {
-  display: flex;
+  display:inline-flex;
   max-width: 230px;
   align-items: center;
   justify-content: space-between;
@@ -182,7 +182,6 @@ align-items: center;
   border-radius: 50px;
   position: relative;
 }
-
 .searchButton {
   color: white;
   position: absolute;
@@ -207,7 +206,6 @@ button:active {
   box-shadow: none;
   transform: translateY(0);
 }
-
 .searchInput {
   border: none;
   background: none;
