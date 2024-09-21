@@ -13,7 +13,7 @@
     margin: 0;
     }
     .header {
-    padding: 0.1px;
+    padding: 100%;
     text-align: center;
     background: url(https://uploadkon.ir/uploads/08ed21_241726468952483.jpg);
     color: rgb(255, 255, 255);
@@ -252,6 +252,10 @@ button:active {
   </defs>
 </svg>
             </button>
+        </div>
+        <div>
+            <h1>
+            </h1>
         </div>
 <body>
 <ul>
