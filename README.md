@@ -15,7 +15,7 @@
     .header {
     padding: 0.1px;
     text-align: center;
-    background:#67408e;
+    background: url(https://uploadkon.ir/uploads/08ed21_241726468952483.jpg);
     color: rgb(255, 255, 255);
     }
     .header h1 {
@@ -168,10 +168,7 @@ align-items: center;
 #search button{
     background-color:chartreuse;
 }
-    h1{
-        background-color: rgb(52, 215, 209);
-        }
-    /* From Uiverse.io by OnlyCodeChannel */ 
+ /* From Uiverse.io by OnlyCodeChannel */ 
 .searchBox {
   display:inline-flex;
   max-width: 230px;
@@ -240,7 +237,7 @@ button:active {
   </g>
   <defs>
     <filter id="filter0_d_2_17" x="-0.418549" y="3.70435" width="29.7139" height="29.7139" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+      <feFlood flood-opacity="0" r url(https://uploadkon.ir/uploads/08ed21_241726468952483.jpg)esult="BackgroundImageFix"></feFlood>
       <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"></feColorMatrix>
       <feOffset dy="4"></feOffset>
       <feGaussianBlur stdDeviation="2"></feGaussianBlur>
