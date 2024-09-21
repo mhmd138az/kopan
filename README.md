@@ -186,8 +186,8 @@ align-items: center;
   color: white;
   position: absolute;
   right: 8px;
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   background: var(--gradient-2, linear-gradient(90deg, #2AF598 0%, #009EFD 100%));
   border: 0;
@@ -212,7 +212,7 @@ button:active {
   outline: none;
   color: white;
   font-size: 15px;
-  padding: 24px 46px 24px 26px;
+  padding: 15px 50px 15px 30px;
 }
 </style>
 </head>
