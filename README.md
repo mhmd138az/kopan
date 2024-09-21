@@ -169,7 +169,7 @@ align-items: center;
     background-color:chartreuse;
 }
     h1{
-        background-color: crimson;
+        background-color: rgb(52, 215, 209);
         }
     /* From Uiverse.io by OnlyCodeChannel */ 
 .searchBox {
