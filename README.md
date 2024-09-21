@@ -13,7 +13,7 @@
     margin: 0;
     }
     .header {
-    padding: 100%;
+    padding: 1px;
     text-align: center;
     background: url(https://uploadkon.ir/uploads/08ed21_241726468952483.jpg);
     color: rgb(255, 255, 255);
