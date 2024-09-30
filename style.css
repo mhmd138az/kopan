@@ -1,0 +1,208 @@
+<style>
+    * {
+    box-sizing: content-box;
+    }
+    body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    }
+    .header {
+    padding: 1px;
+    text-align: center;
+    background: url(https://uploadkon.ir/uploads/08ed21_241726468952483.jpg);
+    color: rgb(255, 255, 255);
+    }
+    .header h1 {
+    font-size: 40px;
+    }
+    .navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    }
+    .navbar a {
+    float: left;
+    display: block;
+    color: rgb(255, 253, 256);
+    text-align:center;
+    padding: 3px 8px;
+    text-decoration: none;
+    }
+    .navbar a.right {
+    float: right;
+    }
+    .navbar a:hover {
+    background-color: #13d9ef;
+    color: rgb(0, 0, 0);
+    }
+    .navbar a.active {
+    background-color: #666;
+    color: rgb(255, 255, 255);
+    }
+    .row {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    }
+    .side {
+    -ms-flex: 30%; /* IE10 */
+    flex: 30%;
+    background-color:  #98988a;
+    padding: 20px;
+    }
+    .main {
+    -ms-flex: 70%; /* IE10 */
+    flex: 70%;
+    background-color:  rgb(194, 190, 157);
+    padding: 20px;
+    }
+    .fakeimg {
+    background-color: #934c4c;
+    width: 100%;
+    padding: 20px;
+    }
+    .footer {
+    padding: 20px;
+    text-align: center;
+    background: #48515f;
+    }
+    @media screen and (max-width: 700px) {
+    .row {
+    flex-direction: column;
+    }
+    }
+    @media screen and (max-width: 400px) {
+    .navbar a {
+    float: none;
+    width: 100%;
+    }
+    }
+    *{
+    box-sizing: border-box;
+    }
+    .container{
+    width: 300px;
+    }
+    input,select,textarea{
+    width: 100%;
+    margin: 0 0 10px 0;
+    padding: 10px;
+    }
+    .btn1{
+    background-color: green;
+    color: #ffffff;
+    }
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #281740;
+    }
+    li {
+    float: left;
+    }
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    li a:hover {
+    background-color: #0eccf6;
+    }
+    #search{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+display: none;
+justify-content: center;
+align-items: center;
+}
+#search:target{
+    display: flex;
+}
+#search form{
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+#search input{
+    width: 100%;
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+}
+#search div{
+    display: flex;
+    gap: 1em;
+    justify-content:center;
+}
+#search a,
+#search button{
+    border:none;
+    padding: 0,25em 1em;
+    border-radius: 0,25em;
+    color:black;
+    font-weight: bold;
+    cursor: pointer;
+}
+#search a{
+    background-color: crimson;
+}
+#search button{
+    background-color:chartreuse;
+}
+ /* From Uiverse.io by OnlyCodeChannel */ 
+.searchBox {
+  display:inline-flex;
+  max-width: 230px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  background: #2f3640;
+  border-radius: 50px;
+  position: relative;
+}
+.searchButton {
+  color: white;
+  position: absolute;
+  right: 8px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--gradient-2, linear-gradient(90deg, #2AF598 0%, #009EFD 100%));
+  border: 0;
+  display: inline-block;
+  transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+}
+/*hover effect*/
+button:hover {
+  color: #fff;
+  background-color: #1A1A1A;
+  box-shadow: rgba(0, 0, 0, 0.5) 0 10px 20px;
+  transform: translateY(-3px);
+}
+/*button pressing effect*/
+button:active {
+  box-shadow: none;
+  transform: translateY(0);
+}
+.searchInput {
+  border: none;
+  background: none;
+  outline: none;
+  color: white;
+  font-size: 15px;
+  padding: 15px 50px 15px 30px;
+}
+</style>
